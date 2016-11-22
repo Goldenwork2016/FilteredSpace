@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>account/checkin/</string>
+	<string>shows/</string>
+	<string>bands/</string>
+	<string>bands/featured/</string>
+	<string>genres/</string>
+	<string>bands/</string>
+	<string>bands/</string>
+	<string>bands/</string>
+	<string>bands/</string>
+	<string>bands/search/</string>
+	<string>follow/band/</string>
+	<string>follow/band/</string>
+	<string>shows/</string>
+	<string>shows/</string>
+	<string>venues/search/</string>
+	<string>venues/</string>
+	<string>venues/</string>
+	<string>account/meta/</string>
+	<string>account/</string>
+	<string>fan/signup/</string>
+	<string>account/</string>
+	<string>account/password/</string>
+	<string>account/bands/</string>
+	<string>account/checkin/</string>
+	<string>account/shows/upcoming/</string>
+	<string>account/genres/</string>
+	<string>account/genres/</string>
+	<string>account/news/</string>
+	<string>account/profile/picture/</string>
+	<string>account/profile/picture/</string>
+	<string>follow/show/</string>
+	<string>follow/show/</string>
+	<string>track/download/</string>
+	<string>fan/faux/login/</string>
+	<string>venues/</string>
+</array>
+</plist>
